@@ -1,6 +1,8 @@
 # MIT-Computational-Science-and-Engineering-I
 MIT-Computational Science and Engineering I
 
+## Instructor(s)
+Prof. Gilbert Strang
 
 ## Study Materials
 

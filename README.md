@@ -126,7 +126,9 @@ Note: This course was previously called "Mathematical Methods for Engineers I."
 
 ### Lecture 35:
 
-### Lecture 346
+### Lecture 36: Sampling Theorem
+
+https://www.youtube.com/watch?time_continue=5&v=J0pZyXThRmM
 
 
 

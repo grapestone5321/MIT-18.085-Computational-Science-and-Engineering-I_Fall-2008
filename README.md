@@ -32,101 +32,103 @@ Note: This course was previously called "Mathematical Methods for Engineers I."
 
 ### Lecture 1: Four Special Matrices
 
-### Recitation 1
+### Recitation 1: Key Ideas of Linear Algebra
 
 
-### Lecture 2:
+### Lecture 2: Differential Eqns and Difference Eqns
 
-### Lecture 3:
+### Lecture 3: Solving a Linear System
 
-### Lecture 4:
+### Lecture 4: Delta Function Day
 
 ### Recitation 2
 
-### Lecture 5:
+### Lecture 5: Eigenvalues (Part 1)
 
-### Lecture 6:
+### Lecture 6: Eigen Values (part 2) and Positive Definite (part 1)
 
-### Lecture 7:
+### Lecture 7: Positive Definite Day
 
 
-### Lecture 8:
+### Lecture 8: Springs and Masses
 
 ### Recitation 3
 
-### Lecture 9:
+### Lecture 9: Oscillation
 
 ### Recitation 4
 
-### Lecture 10:
+### Lecture 10: Finite Differences in Time
 
-### Lecture 11:
+### Lecture 11: Least Squares (part 2)
 
-### Lecture 12:
+### Lecture 12: Graphs and Networks
 
 ### Recitation 5
 
-### Lecture 13:
+### Lecture 13: Kirchhoff's Current Law
 
-### Lecture 14:
+### Lecture 14: Exam Review
 
 ### Recitation 6
 
-### Lecture 15:
+### Lecture 15: Trusses and A^(T)CA
 
-### Lecture 16:
+### Lecture 16: Trusses (part 2)
 
-### Lecture 17:
+### Lecture 17: Finite Elements in 1D (part 1)
 
 ### Recitation 7
 
-### Lecture 18:
+### Lecture 18: Finite Elements in 1D (part 2)
 
-### Lecture 19:
+### Lecture 19: Quadratic/Cubic Elements
 
-### Lecture 20:
+### Lecture 20: Element Matrices; 4th Order Bending Equations
 
 ### Recitation 8
 
-### Lecture 21:
+### Lecture 21: Boundary Conditions, Splines, Gradient, Divergence
 
 ### Recitation 9
 
-### Lecture 22:
+### Lecture 22: Gradient and Divergence
 
-### Lecture 23:
+### Lecture 23: Laplace's Equation
 
-### Lecture 24:
 
-### Lecture 25:
 
-### Lecture 26:
+### Lecture 24: Laplace's Equation (part 2)
+
+### Lecture 25: Fast Poisson Solver (part 1)
+
+### Lecture 26: Fast Poisson Solver (part 2); Finite Elements in 2D
 
 ### Recitation 10
 
-### Lecture 27:
+### Lecture 27: Finite Elements in 2D (part 2)
 
-### Lecture 28:
+### Lecture 28: Fourier Series (part 1)
 
-### Lecture 29:
+### Lecture 29: Fourier Series (part 2)
 
 ### Recitation 11
 
-### Lecture 30:
+### Lecture 30: Discrete Fourier Series
 
-### Lecture 31:
+### Lecture 31: Fast Fourier Transform, Convolution
 
 ### Recitation 12
 
-### Lecture 32:
+### Lecture 32: Convolution (part 2), Filtering
 
-### Lecture 33:
+### Lecture 33: Filters, Fourier Integral Transform
 
-### Lecture 34:
+### Lecture 34: Fourier Integral Transform (part 2)
 
 ### Recitation 13
 
-### Lecture 35:
+### Lecture 35: Convolution Equations: Deconvolution
 
 ### Lecture 36: Sampling Theorem
 

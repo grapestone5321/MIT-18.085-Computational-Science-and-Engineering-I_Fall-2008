@@ -1,8 +1,19 @@
 # MIT-Computational-Science-and-Engineering-I
 MIT-Computational Science and Engineering I
 
+https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/index.htm
+
 ## Instructor(s)
 Prof. Gilbert Strang
+
+
+## Course Description
+This course provides a review of linear algebra, including applications to networks, structures, and estimation, Lagrange multipliers. 
+
+Also covered are: differential equations of equilibrium; Laplace's equation and potential flow; boundary-value problems; minimum principles and calculus of variations; Fourier series; discrete Fourier transform; convolution; and applications.
+
+Note: This course was previously called "Mathematical Methods for Engineers I."
+
 
 ## Study Materials
 
@@ -17,20 +28,18 @@ https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-enginee
 http://math.mit.edu/~gs/cse/
 
 
-## Course Description
-This course provides a review of linear algebra, including applications to networks, structures, and estimation, Lagrange multipliers. 
 
-Also covered are: differential equations of equilibrium; Laplace's equation and potential flow; boundary-value problems; minimum principles and calculus of variations; Fourier series; discrete Fourier transform; convolution; and applications.
-
-Note: This course was previously called "Mathematical Methods for Engineers I."
 
 ## Lectures
 
 ### Course Introduction
 
-
+https://www.youtube.com/watch?time_continue=4&v=StbJIv49Aco
 
 ### Lecture 1: Four Special Matrices
+
+
+https://www.youtube.com/watch?time_continue=1417&v=CgfkEUOFAj0
 
 ### Recitation 1: Key Ideas of Linear Algebra
 

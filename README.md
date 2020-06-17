@@ -43,6 +43,7 @@ https://www.youtube.com/watch?time_continue=1417&v=CgfkEUOFAj0
 
 ### Recitation 1: Key Ideas of Linear Algebra
 
+https://www.youtube.com/watch?time_continue=1773&v=0oBJN8F616U
 
 ### Lecture 2: Differential Eqns and Difference Eqns
 

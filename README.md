@@ -47,6 +47,8 @@ https://www.youtube.com/watch?time_continue=1773&v=0oBJN8F616U
 
 ### Lecture 2: Differential Eqns and Difference Eqns
 
+https://www.youtube.com/watch?time_continue=3&v=-agCn_nWztQ
+
 ### Lecture 3: Solving a Linear System
 
 ### Lecture 4: Delta Function Day

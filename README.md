@@ -51,6 +51,8 @@ https://www.youtube.com/watch?time_continue=3&v=-agCn_nWztQ
 
 ### Lecture 3: Solving a Linear System
 
+https://www.youtube.com/watch?time_continue=9&v=11y8_XTbwGo
+
 ### Lecture 4: Delta Function Day
 
 ### Recitation 2
